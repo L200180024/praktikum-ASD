@@ -1,1 +1,1 @@
-# praktikum_ASD
+# praktikum-ASD
